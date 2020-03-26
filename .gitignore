@@ -1,6 +1,8 @@
 # Byte-compiled / optimized / DLL files
 ./Gym\ Videos/*
 ./Gym\ Videos/
+Gym\ Videos/*
+Gym\ Videos/
 
 
 __pycache__/
